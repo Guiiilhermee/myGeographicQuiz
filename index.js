@@ -76,7 +76,7 @@ const questionFunctions = {
     }
 
     const text = answers.length === 0 ? 
-      'You did not get any right' : 
+      'Better luck next time!' : 
       `Congratulations, you got it right ${answers.length} out of ${questionData.length}`
 
     const html = `
