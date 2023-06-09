@@ -1,5 +1,11 @@
 # myGeographicQuiz
 
+My Geographic Quiz is a small and quick quiz which hopes to demonstrate how Javascript works in a context. The quiz is easy to understand and use. The user 
+will test your geographic knowledge on which question that they go through and may learn something. My Geographic Quiz is a responsive Javascript quiz and we
+can add some more questions in the future.
+
+(photo of responsive screens)
+
 ### Validator Testing 
 
 - HTML
