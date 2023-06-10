@@ -22,6 +22,11 @@ can add some more questions in the future.
 
 ![Game](photo later)
 
+- __The Score Area at the end__
+
+  - This section will allow the user to see exactly how many correct and incorrect answers they have got. 
+
+![score](photo later)
 
 
 ### Validator Testing 
