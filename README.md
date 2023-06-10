@@ -6,6 +6,24 @@ can add some more questions in the future.
 
 (photo of responsive screens)
 
+## Features 
+
+### Existing Features
+
+- __My Geographic Quiz Logo and Heading__
+
+  - Featured at the top of the page, My Geographic Quiz logo and heading is easy to see for any user. The user will be able to see the name of the quiz.
+
+![Logo](photo later)
+
+- __The Game Area__
+
+  - This section will allow the user to start the quiz. The user will be able to easily see the number of the question and the multiple answers.
+
+![Game](photo later)
+
+
+
 ### Validator Testing 
 
 - HTML
