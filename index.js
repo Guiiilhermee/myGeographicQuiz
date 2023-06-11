@@ -85,10 +85,7 @@ const questionFunctions = {
       </p>
 
       <button type="button" class="quiz__total-return">Start again</button>
-
-      <button type="button" class="quiz__feedback">Send feedback</button>
-
-    `
+      `
 
     total.innerHTML = html
 
