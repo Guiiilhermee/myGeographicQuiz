@@ -198,8 +198,12 @@
 }
 
 footer {
-  background-color: blueviolet;
-
+  background-color: whitesmoke;
+  bottom: 150px;
+  left: 0;
+  height: 40px;
+  position: fixed;
+  width: 100%;
 }
 
 #username 
