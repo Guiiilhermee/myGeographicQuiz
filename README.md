@@ -28,6 +28,12 @@ can add some more questions in the future.
 
 ![score](photo later)
 
+- __Create an username and feedback area__
+
+  - This section will allow the user to create an username and leave a feedback for any improvement.
+
+![uname](photo later)
+
 
 ### Validator Testing 
 
