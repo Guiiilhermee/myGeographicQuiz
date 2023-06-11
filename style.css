@@ -190,14 +190,15 @@ footer {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
 
 }
 
 #username {
-  padding: 10px;
-  text-align: center;
-  background-color: aqua;
+  padding: 5px;
+  text-align: left;
+  background-color: whitesmoke;
+  display: inline-block;
 
   
 
@@ -208,6 +209,6 @@ button {
   border-style: double;
   width: 80px;
   height: 20px;
-  border-color: #f4b41a;
+  border-color: #080600;
   border-radius: 15px;
 }    
