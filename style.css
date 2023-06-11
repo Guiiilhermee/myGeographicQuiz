@@ -189,4 +189,25 @@ footer {
   width: 100%;
 }
 
-#username 
+h1 {
+  text-align: center;
+
+}
+
+#username {
+  padding: 10px;
+  text-align: center;
+  background-color: aqua;
+
+  
+
+
+}
+
+button {
+  border-style: double;
+  width: 80px;
+  height: 20px;
+  border-color: #f4b41a;
+  border-radius: 15px;
+}    
