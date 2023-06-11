@@ -196,7 +196,7 @@ footer {
   display: inline-block;
 }
 
-#username, label, input {
+#username, label, input, textarea {
   border-radius: 10px;
 
 
