@@ -182,10 +182,10 @@
 
 footer {
   background-color: whitesmoke;
-  bottom: 190px;
-  left: 0;
+  bottom: 40px;
+  left: 700px;
   height: 40px;
-  position: fixed;
+  position:absolute;
   width: 100%;
 }
 
