@@ -181,33 +181,23 @@
 }
 
 footer {
-  background-color: rgb(189, 91, 91);
-  bottom: 150px;
+  background-color: whitesmoke;
+  bottom: 190px;
   left: 0;
-  right: 50px;
   height: 40px;
   position: fixed;
   width: 100%;
 }
 
-h1 {
-  text-align: left;
-
-}
-
 #username {
-  padding: 2px;
+  padding: 1px;
   text-align: left;
-  background-color: whitesmoke;
+  background-color: gray;
   display: inline-block;
 }
 
 #username, label, input {
-  border-radius: 15px;
-  display: inline-block;
-  width: 120px;
-  height: 20px;
-
+  border-radius: 10px;
 
 
 }
