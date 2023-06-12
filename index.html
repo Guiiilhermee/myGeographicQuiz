@@ -14,25 +14,68 @@
 
 </head>
 <body>
+<style>
 
-  <main class="quiz">
-    <div class="quiz__container"></div>
-
-    <div class="quiz__total"></div>
-
- 
-
-  </main>
-
-
+  html, body{
+  width: 100%;
+  height: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:#ffffff;
+  }
   
+.form{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;    
+  padding: 30px;
+  width: 100%;
+  max-width: 500px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 1px -7px 24px 0px rgba(0,0,0,0.33);
+  -webkit-box-shadow: 1px -7px 24px 0px rgba(0,0,0,0.33);
+  -moz-box-shadow: 1px -7px 24px 0px rgba(0,0,0,0.33);
   
-  
-  <script src="./index.js"></script>
+}
+
+.form input {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: hidden;
+  background-color: #ebebeb;
+
+}
+.form button {
+  width: 100%;
+  padding: 15px;
+  border: hidden;
+  background-color: rgba(130, 5, 5, 0.63);
+  color: #0a0a0a;
+  height: 50px;    
+}
+
+</style>
+<div class="form">
+  <form action="form.html">
+    <label >Username</label>
+    <input type="text" placeholder="Uname">
+    <label >Password</label>
+    <input type="text" placeholder="********">
+    <label >Feedback</label>
+    <input type="text" placeholder="Feedback">
+    <button>Subscribe</button>
+  </form>
+</div>
+
 </body>
 <footer>  
 
-    <label>Copyright®</label>
-    
+  <label>Copyright®</label>
+
 </footer>
 </html>
