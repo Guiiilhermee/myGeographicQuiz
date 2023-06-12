@@ -48,11 +48,7 @@ const questionData = [
       { text: 'Bergen', correct: false }
     ]
   },
-  {
-    question: 'User Name', 
-    email: 'Email',
-    
-  }
+  
 ]
 
 const questionFunctions = {
