@@ -20,7 +20,7 @@ can add some more questions in the future.
 
   - Featured at the top of the page, My Geographic Quiz heading is easy to see for any user. The user will be able to see the name of the quiz.
 
-![Heading]()
+![Heading](https://github.com/Guiiilhermee/myGeographicQuiz/blob/main/midia/heading.png?raw=true)
 
 - __The Game Area__
 
