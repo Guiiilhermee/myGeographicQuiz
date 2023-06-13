@@ -35,17 +35,36 @@ can add some more questions in the future.
 ![score](https://github.com/Guiiilhermee/myGeographicQuiz/blob/main/midia/score%20area.png?raw=true)
 
 
+### Features left to implement
+
+- When there is time, I would like to include few more geographic questions.
+
 ### Testing 
 
-- 
+- I tested playing this quiz in different browsers: Chrome, Firefix and Microsoft Edge.
+
+- The results of this game are always correct.
+
+- I confirm that the colors and fonts are easy to read and understand.
 
 
+![lighthouse](https://github.com/Guiiilhermee/myGeographicQuiz/blob/main/midia/lighthouse.png?raw=true)
+
+
+
+### bugs
+
+- Solved bugs
+
+    - I discovered this because I had try to access an undefined variable
+    
+    “uncaught typeerror: cannot read property”
 
 ### Validator Testing 
 
 - HTML
 
-    - No errors were returned when passing through the official [W3C validator] (HTML validator)
+    - No errors were returned when passing through the official [W3C validator]()
 
 - CSS
 
