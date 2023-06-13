@@ -10,29 +10,29 @@ can add some more questions in the future.
 
 ### Existing Features
 
-- __My Geographic Quiz Logo and Heading__
+- __Create an username and feedback area__
 
-  - Featured at the top of the page, My Geographic Quiz logo and heading is easy to see for any user. The user will be able to see the name of the quiz.
+  - This section will allow the user to create an username and leave a feedback for any improvement.
 
-![Logo](photo later)
+![uname]("C:\Users\lilia\Desktop\quiz\myGeographicQuiz\midia\username feedback.png")
+
+- __My Geographic Quiz Heading__
+
+  - Featured at the top of the page, My Geographic Quiz heading is easy to see for any user. The user will be able to see the name of the quiz.
+
+![Heading]()
 
 - __The Game Area__
 
   - This section will allow the user to start the quiz. The user will be able to easily see the number of the question and the multiple answers.
 
-![Game](photo later)
+![Game](image.png)
 
 - __The Score Area at the end__
 
   - This section will allow the user to see exactly how many correct and incorrect answers they have got. 
 
 ![score](photo later)
-
-- __Create an username and feedback area__
-
-  - This section will allow the user to create an username and leave a feedback for any improvement.
-
-![uname](photo later)
 
 
 ### Validator Testing 
@@ -43,7 +43,7 @@ can add some more questions in the future.
 
 - CSS
 
-    - No errors were found when passing through the official [Jigsaw] (CSS validator)
+    - No errors were found when passing through the official [W3C CSS Validator] (http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fguiiilhermee.github.io%2FmyGeographicQuiz%2F&usermedium=all&vextwarning=&warning=1)
 
 - JavaScript
 
